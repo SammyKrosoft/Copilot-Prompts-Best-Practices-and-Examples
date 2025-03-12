@@ -26,4 +26,4 @@ Make them easy to understand and short
 
 # Notes
 
-Sometimes the source is the application we are using Copilot in (Power BI, Word/Excel/Powerpoint document, ...
+Sometimes the source is the application we are using Copilot in (Power BI, Word/Excel/Powerpoint document, ...)
