@@ -1,9 +1,9 @@
 # Copilot Prompting Schema
 
 **GOAL**: *WHAT* DO I WANT
-> <code>
+> ```
 > Give me 4-5 bullet points - the only mandatory part of the structure. The other ones makes Copilot / AI answers give more specific, taylored answers.
-> </code>
+> ```
 
 **CONTEXT**: FOR WHAT - which media, which audience ?
 > ```
