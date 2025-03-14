@@ -8,16 +8,18 @@
 
 **CONTEXT**: FOR WHAT - which media, which audience ?
 > ```
-> for me to use in a presentation
+> Example: for me to use in a presentation
 > ```
+
 **SOURCE**: *FROM* WHICH SOURCE - database, CSV, Excel workbook or table, Word page, Power BI page or visual, ...
-```
-from the Copilot email I sent last week
-```
+> ```
+> from the Copilot email I sent last week
+> ```
+
 **EXPECTATION**: WHAT TYPE OF RESPONSE - tone (persuasive, poetic, formal, technical, 
-```
-Make them easy to understand and short
-```
+> ```
+> Make them easy to understand and short
+> ```
 
 # Best practices
 
@@ -31,3 +33,12 @@ Make them easy to understand and short
 Sometimes the source is the application we are using Copilot in (Power BI, Word/Excel/Powerpoint document, ...)
 You can be more specific within a source, for example in Power BI:
 - What are the top 5 sellers from the pie chart
+
+# Links
+
+[Creating effective prompts](https://learn.microsoft.com/en-us/copilot/security/prompting-tips)
+
+[Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-us/prompts/all)
+
+
+
