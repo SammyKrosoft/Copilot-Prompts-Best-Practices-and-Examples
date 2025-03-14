@@ -4,9 +4,9 @@
 > ```Give me 4-5 bullet points - the only mandatory part of the structure. The other ones makes Copilot / AI answers give more specific, taylored answers.```
 
 **CONTEXT**: FOR WHAT - which media, which audience ?
-```
-for me to use in a presentation
-```
+> ```
+> for me to use in a presentation
+> ```
 **SOURCE**: *FROM* WHICH SOURCE - database, CSV, Excel workbook or table, Word page, Power BI page or visual, ...
 ```
 from the Copilot email I sent last week
